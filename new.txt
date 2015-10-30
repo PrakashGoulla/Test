@@ -1,2 +1,3 @@
 Sample text
 Insert again
+Bug fix in master
