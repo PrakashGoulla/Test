@@ -1,3 +1,5 @@
 Sample text
 Insert again
 In branch r2
+Bug fix in master
+
