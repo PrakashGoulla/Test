@@ -1,2 +1,7 @@
 Sample text
 Insert again
+<<<<<<< HEAD
+In branch r2
+=======
+Bug fix in master
+>>>>>>> 954942f... Bug fix in master
